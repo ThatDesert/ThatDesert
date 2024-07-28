@@ -8,6 +8,7 @@
 Want live, reliable London Tube status to easily embed on your website?
 Check out my latest tool at [TravelBadge.uk](https://travelbadge.uk)!
 
+![TravelBadge](https://travelbadge.uk)
 
 ## Languages:  
 Python  
