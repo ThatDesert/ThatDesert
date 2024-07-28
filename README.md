@@ -4,6 +4,7 @@
 
 ![Jubilee Line Status](https://travelbadge.uk/line/jubilee)
 ![DLR Status](https://travelbadge.uk/line/dlr)
+![Elizabeth Status](https://travelbadge.uk/line/elizabeth)
 
 Want live, reliable London Tube status to easily embed on your website?
 Check out my latest tool at [TravelBadge.uk](https://travelbadge.uk)!
