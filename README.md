@@ -6,7 +6,7 @@
 ![DLR Status](https://travelbadge.uk/line/dlr)
 ![Elizabeth Status](https://travelbadge.uk/line/elizabeth)
 
-Want live, reliable London Tube status to easily embed on your website?
+Want free, live, and reliable London Tube status to easily embed on your website?
 Check out my latest tool at [TravelBadge.uk](https://travelbadge.uk)!
 
 ![TravelBadge](https://travelbadge.uk/images/og.jpg)
